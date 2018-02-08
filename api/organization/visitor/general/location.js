@@ -1,0 +1,6 @@
+export {default as create}      from "api-common/api/organization/visitor/general/location/create"
+export {default as delete}      from "api-common/api/organization/visitor/general/location/delete"
+export {default as read}        from "api-common/api/organization/visitor/general/location/read"
+export {default as subscribe}   from "api-common/api/organization/visitor/general/location/subscribe"
+export {default as unsubscribe} from "api-common/api/organization/visitor/general/location/unsubscribe"
+export {default as update}      from "api-common/api/organization/visitor/general/location/update"

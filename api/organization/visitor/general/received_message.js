@@ -1,0 +1,6 @@
+export {default as create}      from "api-common/api/organization/visitor/general/received_message/create"
+export {default as delete}      from "api-common/api/organization/visitor/general/received_message/delete"
+export {default as read}        from "api-common/api/organization/visitor/general/received_message/read"
+export {default as subscribe}   from "api-common/api/organization/visitor/general/received_message/subscribe"
+export {default as unsubscribe} from "api-common/api/organization/visitor/general/received_message/unsubscribe"
+export {default as update}      from "api-common/api/organization/visitor/general/received_message/update"

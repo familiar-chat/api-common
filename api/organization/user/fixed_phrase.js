@@ -1,0 +1,6 @@
+export {default as create}      from "api-common/api/organization/user/fixed_phrase/create"
+export {default as delete}      from "api-common/api/organization/user/fixed_phrase/delete"
+export {default as read}        from "api-common/api/organization/user/fixed_phrase/read"
+export {default as subscribe}   from "api-common/api/organization/user/fixed_phrase/subscribe"
+export {default as unsubscribe} from "api-common/api/organization/user/fixed_phrase/unsubscribe"
+export {default as update}      from "api-common/api/organization/user/fixed_phrase/update"
