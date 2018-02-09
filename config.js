@@ -1,5 +1,5 @@
 export default {
-    echat: {
+    familiar: {
         firebase: {
             apiKey: "AIzaSyATkrObtScrGX_Ovzd9u7zDwqStcHqSngk",
             authDomain: "familiar-chat.firebaseapp.com",
