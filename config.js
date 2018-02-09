@@ -1,12 +1,12 @@
 export default {
-    familiar: {
+    echat: {
         firebase: {
-            apiKey: "",
-            authDomain: "",
-            databaseURL: "",
-            projectId: "",
-            storageBucket: "",
-            messagingSenderId: ""
+            apiKey: "AIzaSyATkrObtScrGX_Ovzd9u7zDwqStcHqSngk",
+            authDomain: "familiar-chat.firebaseapp.com",
+            databaseURL: "https://familiar-chat.firebaseio.com",
+            projectId: "familiar-chat",
+            storageBucket: "familiar-chat.appspot.com",
+            messagingSenderId: "1034601077688"
         },
         functions: {
             url: ""
