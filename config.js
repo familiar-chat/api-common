@@ -9,7 +9,7 @@ export default {
             messagingSenderId: "1034601077688"
         },
         functions: {
-            url: ""
+            url: "https://us-central1-familiar-chat.cloudfunctions.net/v1"
         },
         visitor_server: {
             url: process.env.VISITOR_SERVER_URL || ""
