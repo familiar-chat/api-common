@@ -12,7 +12,7 @@ export default {
             url: "https://us-central1-familiar-chat.cloudfunctions.net/v1"
         },
         visitor_server: {
-            url: process.env.VISITOR_SERVER_URL || ""
+            url: process.env.VISITOR_SERVER_URL || "https://familiar-chat.firebaseapp.com"
         }
     }
 }
